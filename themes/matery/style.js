@@ -26,7 +26,7 @@ const Style = () => {
     
     #theme-matery .menu-link:hover {
         background-size: 100% 2px;
-        color: #bfbfbf;
+        color: #c9c56f;
     }
 
     /* 设置了从上到下的渐变黑色 */
