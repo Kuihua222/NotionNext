@@ -15,7 +15,7 @@ const Style = () => {
     }
   
     /*  菜单下划线动画 */
-    #theme-hexo .menu-link {
+    #theme-matery .menu-link {
         text-decoration: none;
         background-image: linear-gradient(#bfbfbf, #bfbfbf);
         background-repeat: no-repeat;
@@ -24,13 +24,13 @@ const Style = () => {
         transition: background-size 100ms ease-in-out;
     }
     
-    #theme-hexo .menu-link:hover {
+    #theme-matery .menu-link:hover {
         background-size: 100% 2px;
         color: #bfbfbf;
     }
 
     /* 设置了从上到下的渐变黑色 */
-    #theme-hexo .header-cover::before {
+    #theme-matery .header-cover::before {
         content: "";
         position: absolute;
         top: 0;
